@@ -1,0 +1,17 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": "offline",
+                "name": "You're offline"
+            },
+            "author": "You're Offline",
+            "title": "Fails to fetch articles",
+            "description": "Try loading the page again when you're online.",
+            "url": "#",
+            "urlToImage": "images/offline.png",
+            "publishedAt": "",
+            "content": ""
+        }
+    ]
+}

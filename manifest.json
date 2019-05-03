@@ -1,0 +1,16 @@
+{
+  "name": "Ninja News Portal",
+  "short_name": "News Portal",
+  "theme_color": "#d71212",
+  "background_color": "#d71212",
+  "display": "standalone",
+  "start_url": ".",
+  "icons": [
+    {
+      "src": "/images/icons/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "splash_pages": null
+}
